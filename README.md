@@ -1,4 +1,4 @@
-# The Lesson Git
+# Funny Button
 
 Test My Git Hub
 
